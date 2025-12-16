@@ -1,4 +1,4 @@
-# text-speech-converter-js
+# Text to Speech Converter
 Text to Speech Converter in Javascript
 
 ## 🛠️ Technologies Used
@@ -8,3 +8,4 @@ Text to Speech Converter in Javascript
 * JavaScript: Applicaiton logic and event handling
 
 ## Demo Link
+https://mzeeshanaltaf.github.io/text-speech-converter-js/
